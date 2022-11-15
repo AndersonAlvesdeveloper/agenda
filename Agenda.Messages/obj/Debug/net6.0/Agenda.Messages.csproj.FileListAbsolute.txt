@@ -1,0 +1,12 @@
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Messages\bin\Debug\net6.0\Agenda.Messages.deps.json
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Messages\bin\Debug\net6.0\Agenda.Messages.dll
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Messages\bin\Debug\net6.0\Agenda.Messages.pdb
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Messages\obj\Debug\net6.0\Agenda.Messages.csproj.AssemblyReference.cache
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Messages\obj\Debug\net6.0\Agenda.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Messages\obj\Debug\net6.0\Agenda.Messages.AssemblyInfoInputs.cache
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Messages\obj\Debug\net6.0\Agenda.Messages.AssemblyInfo.cs
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Messages\obj\Debug\net6.0\Agenda.Messages.csproj.CoreCompileInputs.cache
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Messages\obj\Debug\net6.0\Agenda.Messages.dll
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Messages\obj\Debug\net6.0\refint\Agenda.Messages.dll
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Messages\obj\Debug\net6.0\Agenda.Messages.pdb
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Messages\obj\Debug\net6.0\ref\Agenda.Messages.dll

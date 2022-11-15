@@ -1,0 +1,15 @@
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Reports\bin\Release\net6.0\Agenda.Reports.deps.json
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Reports\bin\Release\net6.0\Agenda.Reports.dll
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Reports\bin\Release\net6.0\Agenda.Reports.pdb
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Reports\bin\Release\net6.0\Agenda.Data.dll
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Reports\bin\Release\net6.0\Agenda.Data.pdb
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Reports\obj\Release\net6.0\Agenda.Reports.csproj.AssemblyReference.cache
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Reports\obj\Release\net6.0\Agenda.Reports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Reports\obj\Release\net6.0\Agenda.Reports.AssemblyInfoInputs.cache
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Reports\obj\Release\net6.0\Agenda.Reports.AssemblyInfo.cs
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Reports\obj\Release\net6.0\Agenda.Reports.csproj.CoreCompileInputs.cache
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Reports\obj\Release\net6.0\Agenda.Reports.csproj.CopyComplete
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Reports\obj\Release\net6.0\Agenda.Reports.dll
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Reports\obj\Release\net6.0\refint\Agenda.Reports.dll
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Reports\obj\Release\net6.0\Agenda.Reports.pdb
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Reports\obj\Release\net6.0\ref\Agenda.Reports.dll

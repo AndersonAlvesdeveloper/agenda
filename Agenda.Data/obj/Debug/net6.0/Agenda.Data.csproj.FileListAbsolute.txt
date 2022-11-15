@@ -1,0 +1,12 @@
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Data\bin\Debug\net6.0\Agenda.Data.deps.json
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Data\bin\Debug\net6.0\Agenda.Data.dll
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Data\bin\Debug\net6.0\Agenda.Data.pdb
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Data\obj\Debug\net6.0\Agenda.Data.csproj.AssemblyReference.cache
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Data\obj\Debug\net6.0\Agenda.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Data\obj\Debug\net6.0\Agenda.Data.AssemblyInfoInputs.cache
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Data\obj\Debug\net6.0\Agenda.Data.AssemblyInfo.cs
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Data\obj\Debug\net6.0\Agenda.Data.csproj.CoreCompileInputs.cache
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Data\obj\Debug\net6.0\Agenda.Data.dll
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Data\obj\Debug\net6.0\refint\Agenda.Data.dll
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Data\obj\Debug\net6.0\Agenda.Data.pdb
+C:\Users\manin\Desktop\curso\Agenda\Agenda.Data\obj\Debug\net6.0\ref\Agenda.Data.dll
